@@ -1,0 +1,11 @@
+{
+  "name": "applied-devops-phase1-class1",
+  "version": "1.0.0",
+  "description": "Phase 1 - Class 1 starter Node.js project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
